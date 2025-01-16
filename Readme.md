@@ -15,9 +15,3 @@ This project is a basic implementation of an **E-commerce Application** with the
 - **Spring Framework**: For building the backend.
 - **Spring Data JPA**: For database interaction.
 - **H2 Database**: In-memory database for testing and development.
-
-## Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-category-crud.git
